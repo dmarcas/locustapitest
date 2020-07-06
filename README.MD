@@ -1,4 +1,6 @@
-# Locust Api Test
+#This repository is discontinued, please use the follow one:  https://github.com/NightCodeLabs/pretzel-example
+
+#Locust Api Test
 
 ## Installation guide
 ### Windows
@@ -6,7 +8,7 @@
 2. Install python  
 3. Install IDE  
 4. Install Visual Studio Code / Build Tools for C++ (Doesn't work without)   
-5. pip install locustio  
+5. pip install locustio 
 6. add locustio to your env. path  
 7. restart cmd  
 8. install maven
