@@ -1,1 +1,1 @@
-# This repository is discontinued and moved to the following repository and was moved while we were woking on it and some things are not finished. Please use the follow one, which is finished and works properly:  https://github.com/NightCodeLabs/pretzel-example
+# This repository is discontinued and moved to the following repository (was moved while we were woking on it and some things are not finished). Please use the following one, which is finished and works properly:  https://github.com/NightCodeLabs/pretzel-example
